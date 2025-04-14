@@ -1,5 +1,5 @@
-UNP_PROJECT_BI_WITH_MS_EXCEL_FROZA_HORIZAN_BANK_DATA
+UNP_PROJECT_BI_WITH_MS_EXCEL_SHOWING _FINANCIAL_EDUCATION_DOMESTIC_ANALYSIS
 
-I Created an interactive Excel dashboard for customer segmentation and profiling using factors such as Work Experience, Residence Type, Occupation, Education, and Income. Leveraged Excel functions like VLOOKUP, pivot tables, and visualizations (e.g., bar charts, pie charts) to highlight key patterns and trends. Enabled data-driven decision-making and improved stakeholder communication through clear visualizations. Provided a holistic view of customer segments to guide strategic insights effectively
+This project utilizes Microsoft Excel for a comprehensive Business Intelligence (BI) analysis. It focuses on financial education within a domestic context, using structured datasets. Data visualization tools like charts and pivot tables are applied for clarity and insights. Key financial indicators, trends, and household behavior are thoroughly examined. Interactive dashboards enhance understanding of financial literacy levels. The analysis supports informed decision-making and policy recommendations. Overall, it demonstrates how Excel can effectively drive financial awareness and planning.
 
-MS EXCEL PROJECT FILE:https://1drv.ms/x/c/0b0a2a8c6acb5cb7/EQEqBuIQxOpEsTIX5286JdIB0V9VZV1y2XBoFtlXelvdrw?e=C6wthY
+MS EXCEL PROJECT FILE :https://1drv.ms/x/c/0b0a2a8c6acb5cb7/EQEqBuIQxOpEsTIX5286JdIB0V9VZV1y2XBoFtlXelvdrw?e=RKe8YN
